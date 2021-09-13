@@ -1,7 +1,7 @@
 # Portfolio
  私のポートフォリオです。
  
- HTML、 CSS、Javascript等
+ HTML、 CSS、Javascript
  
  勉強しはじめたばかりの人ですため、レスポンシブで簡単に作りました。
 
@@ -20,7 +20,9 @@
 プロフィールです。
 
 ここでは、スクロールしたらHomeの文字が徐々に見えないように設定しました。
-<img src="https://user-images.githubusercontent.com/89200643/132989915-89cd1858-8a15-4621-916f-3dfeaf483789.JPG">
+
+<img src="https://user-images.githubusercontent.com/89200643/133100861-d4b815b7-325d-44c3-947d-508b3a8feb1c.JPG">
+
 
 ---
 
@@ -50,13 +52,9 @@ CSSのflex-wrapを使ってレスポンシブできるように作り、
 
 ### Testimonials
 
-誰かコメントをした場合を想像して使ってみました。
+記憶に残っている言葉を表現しました。
 
-赤文字の名前は、その人のプロフィールにいけるように表現したかったため
-
-わざとlinkを利用しました。
-
-<img src="https://user-images.githubusercontent.com/89200643/132991469-3cbdb379-e6bd-4da8-b40f-3d32f82c5e61.JPG">
+<img src="https://user-images.githubusercontent.com/89200643/132991469-3cbdb379-e6bd-4da8-b40f-3d32f82c5e61.JPG" width="700px" height="400px">
 
 ---
 
