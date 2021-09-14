@@ -67,7 +67,7 @@ CSSのflex-wrapを使ってレスポンシブできるように作り、
 ## 問題点
 1. ボタンのイベント
 2. プロジェクトのイベント
-
+3. モバイルでの問題
 
 ### 1. ボタンのイベント
 
@@ -92,3 +92,12 @@ projectをクリックしたら、スムーズにアニメーションができ�
 
 <img src="https://user-images.githubusercontent.com/89200643/132992188-d177b279-fb04-4722-b7f4-1c4130fc0d8f.JPG">
 
+---
+
+### 3. モバイルでの問題
+
+モバイルでは以下のようになってしまう。
+
+mouse cursorで設定しましたため、指で押して問題が発生するではないかと考えています。
+
+<img src="https://user-images.githubusercontent.com/89200643/133251133-0d9ed7fa-75dd-4d13-9e43-b936c780dc78.JPG">
